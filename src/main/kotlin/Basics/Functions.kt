@@ -1,3 +1,5 @@
+package Basics
+
 class Functions {
     fun double_full_version(x:Int):Int{
 

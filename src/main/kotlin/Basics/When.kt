@@ -1,3 +1,5 @@
+package Basics
+
 class When {
     val results=50
 

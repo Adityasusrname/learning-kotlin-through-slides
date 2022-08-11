@@ -1,3 +1,5 @@
+package Basics
+
 class Ranges {
     val numberOfStudents = 50
     fun check_for_range(){

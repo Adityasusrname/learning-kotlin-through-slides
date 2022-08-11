@@ -1,3 +1,5 @@
+package Basics
+
 class Conditionals {
 
     val numberOfCups = 30

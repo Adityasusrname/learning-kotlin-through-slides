@@ -1,3 +1,5 @@
+package Basics
+
 class Strings{
 
     fun printStringWithVariables(){

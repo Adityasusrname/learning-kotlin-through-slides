@@ -1,3 +1,5 @@
+package Basics
+
 class Loops {
 
     val pets= arrayOf("dog","cat","canary")
